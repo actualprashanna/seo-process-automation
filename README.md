@@ -24,15 +24,21 @@ How to Run
 
 1. Clone or Download this Repository
 ```bash
-git clone (https://github.com/actualprashanna/seo-process-automation)
+git clone https://github.com/actualprashanna/seo-process-automation
 ```
 Or just download the script file
 
 2. Open a Terminal in the Directory
-3. Run the Script
+
+4. Run the Script
 ```bash
 python main.py
 ```
 4. View the Output
 The console will display logs for each agent and the final result.
+
+Notes
+- This script uses only mock data for demonstration.
+- There are no external dependencies—no setup or installation needed beyond Python.
+- Feel free to modify the mock keyword data or brief outlines to test other scenarios.
 
